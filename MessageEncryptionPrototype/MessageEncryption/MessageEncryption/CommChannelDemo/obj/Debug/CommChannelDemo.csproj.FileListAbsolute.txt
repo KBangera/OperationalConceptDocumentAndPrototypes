@@ -1,0 +1,16 @@
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\CommChannelDemo.exe.config
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\CommChannelDemo.exe
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\CommChannelDemo.pdb
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\Communication.exe
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\CS-BlockingQueue.exe
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\Messages.exe
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\MessageTest.exe
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\TestDeserialization.exe
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\Communication.pdb
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\CS-BlockingQueue.pdb
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\Messages.pdb
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\MessageTest.pdb
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\bin\Debug\TestDeserialization.pdb
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\obj\Debug\CommChannelDemo.csprojResolveAssemblyReference.cache
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\obj\Debug\CommChannelDemo.exe
+E:\MessageEncryption\MessageEncryption\CommChannelDemo\obj\Debug\CommChannelDemo.pdb

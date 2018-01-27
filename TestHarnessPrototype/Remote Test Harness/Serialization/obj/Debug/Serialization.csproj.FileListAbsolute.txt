@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\bin\Debug\Serialization.exe.config
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\bin\Debug\Serialization.exe
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\bin\Debug\Serialization.pdb
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\obj\Debug\Serialization.exe
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\obj\Debug\Serialization.pdb

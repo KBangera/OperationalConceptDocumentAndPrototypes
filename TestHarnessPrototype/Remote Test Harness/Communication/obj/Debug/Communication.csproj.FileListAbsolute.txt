@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\Communication.exe.config
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\Communication.exe
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\Communication.pdb
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\BlockingQueue.exe
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\Messages.exe
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\Serialization.exe
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\BlockingQueue.pdb
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\Messages.pdb
+C:\karthik\Remote Test Harness (1)\Communication\bin\Debug\Serialization.pdb
+C:\karthik\Remote Test Harness (1)\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\karthik\Remote Test Harness (1)\Communication\obj\Debug\Communication.exe
+C:\karthik\Remote Test Harness (1)\Communication\obj\Debug\Communication.pdb

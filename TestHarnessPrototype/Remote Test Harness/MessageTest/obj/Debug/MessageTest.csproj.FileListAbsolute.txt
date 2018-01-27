@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+C:\karthik\Remote Test Harness (1)\MessageTest\bin\Debug\MessageTest.exe.config
+C:\karthik\Remote Test Harness (1)\MessageTest\bin\Debug\MessageTest.exe
+C:\karthik\Remote Test Harness (1)\MessageTest\bin\Debug\MessageTest.pdb
+C:\karthik\Remote Test Harness (1)\MessageTest\bin\Debug\Messages.exe
+C:\karthik\Remote Test Harness (1)\MessageTest\bin\Debug\Serialization.exe
+C:\karthik\Remote Test Harness (1)\MessageTest\bin\Debug\Messages.pdb
+C:\karthik\Remote Test Harness (1)\MessageTest\bin\Debug\Serialization.pdb
+C:\karthik\Remote Test Harness (1)\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+C:\karthik\Remote Test Harness (1)\MessageTest\obj\Debug\MessageTest.exe
+C:\karthik\Remote Test Harness (1)\MessageTest\obj\Debug\MessageTest.pdb

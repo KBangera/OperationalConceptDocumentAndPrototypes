@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\ChildAppDomain\obj\Debug\ChildAppDomain.csprojResolveAssemblyReference.cache
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\bin\Debug\ChildAppDomain.exe.config
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\bin\Debug\ChildAppDomain.exe
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\bin\Debug\ChildAppDomain.pdb
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\bin\Debug\Logger.dll
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\bin\Debug\TestInterfaces.dll
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\bin\Debug\Logger.pdb
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\bin\Debug\TestInterfaces.pdb
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\obj\Debug\ChildAppDomain.csprojResolveAssemblyReference.cache
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\obj\Debug\ChildAppDomain.exe
+C:\karthik\Remote Test Harness (1)\ChildAppDomain\obj\Debug\ChildAppDomain.pdb

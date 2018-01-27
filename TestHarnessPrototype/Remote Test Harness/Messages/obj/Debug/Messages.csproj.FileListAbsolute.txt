@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Messages\bin\Debug\Messages.exe.config
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Messages\bin\Debug\Messages.exe
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Messages\bin\Debug\Messages.pdb
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Messages\obj\Debug\Messages.exe
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Messages\obj\Debug\Messages.pdb

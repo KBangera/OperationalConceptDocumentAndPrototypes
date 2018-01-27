@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\TestInterfaces\bin\Debug\TestInterfaces.dll.config
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\TestInterfaces\bin\Debug\TestInterfaces.dll
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\TestInterfaces\bin\Debug\TestInterfaces.pdb
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\TestInterfaces\obj\Debug\TestInterfaces.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\TestInterfaces\obj\Debug\TestInterfaces.dll
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\TestInterfaces\obj\Debug\TestInterfaces.pdb
